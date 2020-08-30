@@ -1,4 +1,4 @@
-# cursostreinamentos
+# App Cursos
 
 A new Flutter application.
 
